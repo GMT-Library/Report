@@ -1,6 +1,6 @@
 # GMT-351-final_project-report
 
-Hello Everyone! :)
+Hello Everyone ! :)
 
 The name of our final project is GMT Library.
 
