@@ -1,4 +1,4 @@
-# GMT-351-final_project-report
+# GMT-351-final-project-report
 
 Hello Everyone ! :)
 
